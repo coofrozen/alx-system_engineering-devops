@@ -1,2 +1,2 @@
-cd 0-current_working_directory
-#!/bin/bash realpath 0-current_working_directory
+#!/bin/bash 
+cd 0-current_working_directory realpath 0-current_working_directory
